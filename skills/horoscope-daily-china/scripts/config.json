@@ -1,0 +1,18 @@
+{
+  "tianapi": {
+    "key": "1a2e33859936815860a475f5bc929b4b",
+    "urls": {
+      "fortune": "https://apis.tianapi.com/star/index",
+      "pair": "https://apis.tianapi.com/xingzuo/index"
+    }
+  },
+  "output": {
+    "width": 1080,
+    "height": 1400,
+    "quality": 95
+  },
+  "template": {
+    "default": 1,
+    "available": [1, 2, 3, 4, 5]
+  }
+}
